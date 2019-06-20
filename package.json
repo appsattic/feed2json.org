@@ -3,7 +3,7 @@
   "description": "Takes a Feed URL (RSS or Atom) and returns a JSONFeed.",
   "version": "0.1.0",
   "engines": {
-    "node": "6.x.x"
+    "node": "12.4.x"
   },
   "scripts": {
     "start": "node server.js"
